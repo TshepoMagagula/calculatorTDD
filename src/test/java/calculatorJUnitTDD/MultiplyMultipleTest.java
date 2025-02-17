@@ -18,7 +18,7 @@ public class MultiplyMultipleTest extends TestCase {
 
 
         //Act
-        int product = mult.multiply(numbs);
+        int product = mult.multiply(1,2,3,4,5);
 
         //Assert
         assertEquals(120, product);
