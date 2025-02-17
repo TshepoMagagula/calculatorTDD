@@ -51,11 +51,12 @@ int product = MultiplyMultiple.multiply(1, 2, 3, 4, 5); // Returns 120
 ### ScreenShots
 
 Pass Tests:
-![AddMultipleTest(Pass).JPG](../../Desktop/CAPACITI%20%2B%20FNB/AddMultipleTest%28Pass%29.JPG)
-![MultiplyMultiple(Pass).JPG](../../Desktop/CAPACITI%20%2B%20FNB/MultiplyMultiple%28Pass%29.JPG)
-Fail Tests:
+![AddMultipleTest(Pass)](https://github.com/user-attachments/assets/ac39669a-7617-406c-9395-b63d7d613f67)
+![MultiplyMultiple(Pass)](https://github.com/user-attachments/assets/f87f3ea0-8c24-40b7-ad4d-70b26d020fed)
 
-![MultiplyMultiple(Fail).JPG](../../Desktop/CAPACITI%20%2B%20FNB/MultiplyMultiple%28Fail%29.JPG)
+Fail Tests:
+![AddMultipleTest(F)](https://github.com/user-attachments/assets/230666ad-3dc3-4ad1-b8a5-7c5401e2f017)
+![MultiplyMultiple(Fail)](https://github.com/user-attachments/assets/fc022bf1-4f55-430c-a8de-e36b2566422d)
 ### Contribution
 
 Feel free to fork the repository and submit pull requests for improvements or new features.
